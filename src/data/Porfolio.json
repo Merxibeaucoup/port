@@ -1,0 +1,42 @@
+[
+    {
+      "id": "portfolio1",
+      "image": "/img/p1.png",
+      "alt": "Dentist Booking App ",
+      "title": "Dentist Booking App",
+      "preview": "https://scintillating-arithmetic-129574.netlify.app/#/",
+      "source": "https://github.com/Merxibeaucoup/doctor-frontend",
+      "stack": ["ReactJS",  "Redux", "Springboot", "PostgreSQL"],
+      "content": "A user can select preferred date,time slot, services offered and then fill a form with their information to book appointment. data is sent to a spring boot backend and stored in a postgreSQL database "
+    },
+    {
+      "id": "portfolio2",
+      "image": "/img/p2.png",
+      "alt": "Non profit Donation web App",
+      "title": "Non profit Donation web App",
+      "preview": "",
+      "source": "",
+      "stack": ["ExpressJS", "ReactJS", "Stripe", "NodeJS"],
+      "content": "A Donation Website i built for a friends non profit foundation. This web app is integrated with the Stripe API. A user is able to make donations of any amount. NodeJs(express) handles the server side integration. "
+    },
+    {
+      "id": "portfolio3",
+      "image": "/img/p3.png",
+      "alt": "Hybrid Blog App",
+      "title": "Hybrid Blog App",
+      "preview": "",
+      "source": "",
+      "stack": ["ReactJS", "SpringBoot", "PostgreSQL" ],
+      "content": " This App started as just a simple App to post and track my problem solving(leetcode, hackerrank) journey, but it ended being a hybrid app , where i post articles about coding , some of the projects i have worked on and some of the problems i have solved, all in seperate pages "
+    },
+    {
+      "id": "portfolio4",
+      "image": "/img/p4.png",
+      "alt": "Location Pinning App",
+      "title": "Location Pinning App",
+      "preview": "",
+      "source": "https://github.com/muchirijane/next-product-site",
+      "stack": ["NodeJS","ExpressJS", "ReactJS", "Mongo DB"],
+      "content": "A simple App integrated with react-map-gl which allows a user to drop pins on maps. saved data( user, pins) is stored in a mongo db database"
+    }
+  ]
